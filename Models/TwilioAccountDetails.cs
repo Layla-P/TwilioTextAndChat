@@ -1,4 +1,4 @@
-﻿namespace TwilioTextAndChat.Models
+namespace TwilioTextAndCall.Models
 {
     public class TwilioAccountDetails
     {
